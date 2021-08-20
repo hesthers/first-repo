@@ -1,5 +1,5 @@
-# {Movie Name}
+# Spider-Man 1
 
-- Year:
+- Year: 2002
 
-- Name:
+- Name: Peter Benjamin Parker
