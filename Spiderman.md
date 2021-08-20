@@ -1,5 +1,5 @@
-# {Movie Name}
+# {Amazing Spider-Man 1}
 
-- Year:
+- Year: 2012
 
-- Name:
+- Name: Peter Benjamin Parker
